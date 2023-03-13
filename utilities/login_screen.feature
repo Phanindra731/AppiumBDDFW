@@ -1,29 +1,62 @@
 # This is a Feature file
 
-Feature: Fill the Contact Form
+Feature: Launch the app
 
-    Scenario: User Login credentials
+    Scenario Outline: login using valid cradentials
 
       Given create class object
-      Then enter mobile number"9581794876"
+      Then enter mobile number<mobilenumber>
       Then click on launch
-      When Enter password
-#        When click on Login Button
-#        And Home page opens
-#        Then Verify Home Screen
-#        Then Take screenshot
+      Then verify the launch
+      Examples:
+        | mobilenumber |
+      |9581794876    |
+      |9492156669    |
 
-#      Examples:
-#        |mobilenumber|
-#  |9581794876  |
-##
-#
-#    Scenario: Enter the data in Contact Form
-#
-#        Given Launch the App and Click on ContactForm
-#        When Enter Name
-#        When Enter Email
-#        When Enter Mobile Number
-#        And we need to click on submit button
-#        Then Click on submit
-#        Then Take Screenshot of contact Form
+  Scenario Outline: login with non vi number
+
+      Given create class object
+      Then enter mobile number<nonvinumber>
+      Then click on launch
+      Then verify the error should dsiplay
+    Examples:
+      | nonvinumber |
+    |9581992218   |
+
+  Scenario Outline: login with invalidnumber
+
+      Given create class object
+      Then enter mobile number<invalidnummber>
+      Then click on launch
+    Examples:
+      | invalidnummber |
+  |95819922        |
+  Scenario Outline: verify new user popup
+
+      Given create class object
+
+      Then enter new user mobile number<mobilenumber>
+      #Then change app enivironment to stagging
+      Then click on launch
+      Then verify the new user popup
+      Examples:
+        | mobilenumber |
+      |8886682956    |
+
+  Scenario Outline: verify return user popup
+
+      Given create class object
+      Then enter return user mobile number<mobilenumber>
+      #Then change app enivironment to stagging
+      Then click on launch
+      Then verify the return user popup
+      Examples:
+        | mobilenumber |
+      |8886682956    |
+
+
+
+
+
+
+

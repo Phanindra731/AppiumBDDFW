@@ -9,7 +9,7 @@ import configurationfiles.DeviceConfig as dc
 log = cl.customLogger()
 
 
-def before_all(context):
+def before_scenario(context, scenario):
     log.info("Automation Started")
     context.testVariable = "This is a Test variable"
     context.driver1 = Driver
@@ -18,7 +18,7 @@ def before_all(context):
     #context.bp.launchWebPage(dc.url, dc.title)
 
 
-def after_all(context):
+def after_scenario(context, scenario):
     time.sleep(5)
     #context.driver.quit()
     #log.info("Automation Ended")

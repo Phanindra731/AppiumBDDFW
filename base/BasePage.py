@@ -1,6 +1,11 @@
 import allure
 from allure_commons.types import AttachmentType
+from appium.webdriver.common.appiumby import AppiumBy
 from selenium.common.exceptions import ElementNotVisibleException, ElementNotSelectableException, NoSuchElementException
+from selenium.webdriver import ActionChains
+from selenium.webdriver.common.actions import interaction
+from selenium.webdriver.common.actions.action_builder import ActionBuilder
+from selenium.webdriver.common.actions.pointer_input import PointerInput
 from selenium.webdriver.support.wait import WebDriverWait
 import utilities.CustomLogger as cl
 import time
@@ -8,6 +13,7 @@ from appium.webdriver.common.touch_action import TouchAction
 
 class BasePage:
     log = cl.customLogger()
+    x= "promod"
 
     def __init__(self, driver):
         self.driver = driver
@@ -15,6 +21,7 @@ class BasePage:
     def waitForElement(self, locatorvalue, locatorType):
         locatorType = locatorType.lower()
         element = None
+
         wait = WebDriverWait(self.driver, 10, poll_frequency=1,
                              ignored_exceptions=[ElementNotVisibleException, ElementNotSelectableException,
                                                  NoSuchElementException])
@@ -24,7 +31,7 @@ class BasePage:
         elif locatorType == "class":
             element = wait.until(lambda x: x.find_element_by_class_name(locatorvalue))
             return element
-        elif locatorType == "des":
+        elif locatorType == "description":
             element = wait.until(
                 lambda x: x.find_element_by_android_uiautomator('UiSelector().description("%s")' % (locatorvalue)))
             return element
@@ -88,22 +95,36 @@ class BasePage:
             self.takeScreenshot(locatorType)
             assert False
 
-    def isDisplayed(self, locatorValue, locatorType="id"):
+    def gettext(self, locatorValue, locatorType="id"):
         element = None
         try:
             locatorType = locatorType.lower()
-            element = self.getElement(locatorValue, locatorType)
-            element.is_displayed()
+            element = self.getElement(locatorValue, locatorType).get_attribute("text")
             self.log.info(
-                " Element with LocatorType: " + locatorType + " and with the locatorValue :" + locatorValue + "is displayed ")
-            return True
+                "Get text" + element + "on Element with LocatorType: " + locatorType + " and with the locatorValue :" + locatorValue)
+            return element
+
         except:
             self.log.info(
                 " Element with LocatorType: " + locatorType + " and with the locatorValue :" + locatorValue + " is not displayed")
             self.takeScreenshot(locatorType)
-            #assert False
-            return False
 
+
+    def isDisplayed(self, locatorValue, locatorType="id"):
+            element = None
+            try:
+                locatorType = locatorType.lower()
+                element = self.getElement(locatorValue, locatorType)
+                element.is_displayed()
+                self.log.info(
+                    " Element with LocatorType: " + locatorType + " and with the locatorValue :" + locatorValue + "is displayed ")
+                return True
+            except:
+                self.log.info(
+                    " Element with LocatorType: " + locatorType + " and with the locatorValue :" + locatorValue + " is not displayed")
+                self.takeScreenshot(locatorType)
+                #assert False
+                return False
 
 
     def screenShot(self, screenshotName):
@@ -174,12 +195,28 @@ class BasePage:
             assert False
         return element
 
-    def scrolling(self,searchelement):
+    def scrollandclick(self,searchelement):
         # element = self.clickElement("//*[@text='Top Shows in Hindi']","xpath")
         # TouchAction(self.driver).press(x=570, y=565).move_to(x=570, y=200).release().perform()
         # self.scrollElement(self._shemaroocarousel,"xpath")
         # TouchAction(self.driver).press(x=570, y=565).move_to(x=570, y=200).release().perform()
-        self.driver.find_element_by_android_uiautomator('new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().textContains("searchelement").instance(0))').click()
+        self.driver.find_element(AppiumBy.ANDROID_UIAUTOMATOR,'new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().textContains("%s").instance(0))'%searchelement).click()
+        time.sleep(2)
+        # element = wait.until(lambda x: x.find_element_by_android_uiautomator
+        # ('new UiScrollable(new UiSelector()).scrollIntoView(%s("%s"))' % (locatorType,
+        #                                                                   locatorValue)))
+    def swipetostart(self):
+        # swipe(startX, startY, endX, endY, duration)
+        #self.driver.swipe(893, 474, 893, 1422, 1000)actions = TouchAction(self.driver)
+
+        #actions = TouchAction(self.driver)
+        actions = ActionChains(self.driver)
+        actions.w3c_actions = ActionBuilder(self.driver, mouse=PointerInput(interaction.POINTER_TOUCH, "touch"))
+        actions.w3c_actions.pointer_action.move_to_location(893, 474)
+        actions.w3c_actions.pointer_action.pointer_down()
+        actions.w3c_actions.pointer_action.move_to_location(885, 1422)
+        actions.w3c_actions.pointer_action.release()
+        actions.perform()
 
 
 
