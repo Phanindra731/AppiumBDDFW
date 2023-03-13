@@ -1,4 +1,4 @@
-
+import time
 
 from base.BasePage import BasePage
 import utilities.CustomLogger as cl
@@ -26,7 +26,70 @@ class loginpage(BasePage):
     _deeplinklaunchwithbucket = "//*[@text='Launch with Bucket']"#xpath
     _deeplinklaunchwithsearch = "//*[@text='Launch with Open Search']"#xpath
     _deeplinklaunchwithmymusic = "//*[@text='Launch with Open My Music']"#xpath
+    _hungamaheader = "com.apalya.myplexmusic.sample:id/ivLogo"  #id
+    _errorpage = "com.apalya.myplexmusic.sample:id/tvErrorTitle"  #id
+    _appversionheader = "com.apalya.myplexmusic.sample:id/tvAppVersion" #id
+    _changeenv ="com.apalya.myplexmusic.sample:id/spinnerEnv" #id
+    _stagenv = "//*[@text='Staging']"  #xpath
+    _changeenvbtn = "com.apalya.myplexmusic.sample:id/btnSaveEnv" #id
+    _newuserpopup ="com.apalya.myplexmusic.sample:id/recyclerView" #id
+    _maybelater = "//*[@text='maybe later']"  #xpath
+    _Continuewithads ="//*[@text='Continue With Ads']" #xpath
 
+    def verifyreturnuserpopup(self):
+        self.waitForElement(self._newuserpopup,"id")
+        e1 = self.isDisplayed(self._newuserpopup,"id")
+        self.waitForElement(self._Continuewithads,"xpath")
+        e2 = self.isDisplayed(self._Continuewithads,"xpath")
+        if (e1 & e2):
+            print("Wellcome popup displayed")
+            assert True
+        else:
+            assert False
+
+    def verifynewuserpopup(self):
+        self.waitForElement(self._newuserpopup,"id")
+        e1 = self.isDisplayed(self._newuserpopup,"id")
+        self.waitForElement(self._maybelater,"xpath")
+        e2 = self.isDisplayed(self._maybelater,"xpath")
+        if (e1 & e2):
+            print("Wellcome popup displayed")
+            assert True
+        else:
+            assert False
+
+    def changeappenvtostagging(self):
+        for i in range(0,6):
+            self.clickElement(self._appversionheader,"id")
+        self.scrollandclick("Production")
+        #time.sleep(5)
+        #self.scrollElement(self._changeenv,"id")
+        #self.waitForElement(self._changeenv,"id")
+        #self.clickElement(self._changeenv,"id")
+        self.clickElement(self._stagenv,"xpath")
+        self.clickElement(self._changeenvbtn,"id")
+        self.swipetostart()
+        self.swipetostart()
+       # self.scrollandclick("Launch")
+
+
+
+
+    def verifyheader(self):
+        self.waitForElement(self._hungamaheader,"id")
+        e = self.isDisplayed(self._hungamaheader,"id")
+        if e:
+            cl.allureLogs("Succssfully launchhed in music home page")
+        else:
+            assert False
+    def verifyerrorpage(self):
+        self.waitForElement(self._errorpage, "id")
+        e = self.isDisplayed(self._errorpage, "id")
+        if e:
+            e1=self.gettext(self._errorpage, "id")
+            cl.allureLogs("Diplayed error page " + e1)
+        else:
+            assert False
     def enteruserid(self,user_id):
         self.sendText(user_id,self._userid,"xpath")
         cl.allureLogs("entered user id"+ user_id)

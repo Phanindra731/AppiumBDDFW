@@ -153,3 +153,817 @@
 02/03/23 08:02:56 PM Thursday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
 02/03/23 08:02:56 PM Thursday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
 02/03/23 08:02:57 PM Thursday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+03/03/23 03:40:37 PM Friday - <module> - INFO : Automation Started
+03/03/23 03:40:59 PM Friday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:41:00 PM Friday - BasePage - INFO : Unable to send text on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:53:21 PM Friday - <module> - INFO : Automation Started
+03/03/23 03:53:33 PM Friday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:53:34 PM Friday - BasePage - INFO : Unable to send text on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:54:05 PM Friday - <module> - INFO : Automation Started
+03/03/23 03:54:17 PM Friday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:54:17 PM Friday - BasePage - INFO : Unable to send text on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:57:18 PM Friday - <module> - INFO : Automation Started
+03/03/23 03:57:40 PM Friday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:57:41 PM Friday - BasePage - INFO : Unable to send text on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 03:59:53 PM Friday - <module> - INFO : Automation Started
+03/03/23 04:00:20 PM Friday - <module> - INFO : Automation Started
+03/03/23 04:06:51 PM Friday - <module> - INFO : Automation Started
+03/03/23 04:08:52 PM Friday - <module> - INFO : Automation Started
+03/03/23 04:09:15 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+03/03/23 04:09:15 PM Friday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+03/03/23 04:09:16 PM Friday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+03/03/23 04:09:17 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 10:45:55 PM Saturday - <module> - INFO : Automation Started
+04/03/23 10:46:08 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 10:46:08 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 10:46:09 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 10:46:09 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:41:47 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:41:59 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:41:59 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:42:00 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:42:00 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:42:33 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:42:46 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:42:46 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:42:46 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:42:47 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:42:57 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:43:10 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:43:10 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:43:11 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:43:11 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:44:15 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:44:28 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:44:28 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:44:28 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:44:28 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:45:44 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:46:17 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:47:01 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:48:38 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:48:50 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:48:50 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:48:51 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:48:51 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:49:32 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:49:44 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:49:45 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:49:45 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:49:46 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+04/03/23 11:56:52 PM Saturday - <module> - INFO : Automation Started
+04/03/23 11:57:04 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+04/03/23 11:57:05 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+04/03/23 11:57:05 PM Saturday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+04/03/23 11:57:05 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 12:11:11 AM Sunday - <module> - INFO : Automation Started
+05/03/23 12:11:24 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 12:11:24 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 12:11:25 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 12:11:25 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 12:11:28 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 12:11:29 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo is not displayed
+05/03/23 12:17:41 AM Sunday - <module> - INFO : Automation Started
+05/03/23 12:17:54 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 12:17:54 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 12:17:54 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 12:17:54 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 12:17:58 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 12:17:59 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 12:25:50 AM Sunday - <module> - INFO : Automation Started
+05/03/23 12:26:02 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 12:26:02 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 12:26:03 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 12:26:03 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 12:26:08 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 12:26:08 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 12:30:55 AM Sunday - <module> - INFO : Automation Started
+05/03/23 12:31:08 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 12:31:08 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 12:31:08 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 12:31:09 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 12:31:20 AM Sunday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 12:31:20 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo is not displayed
+05/03/23 01:00:41 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:00:53 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:00:53 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:00:54 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:00:54 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:00:59 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:01:00 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:01:10 AM Sunday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:01:11 AM Sunday - BasePage - INFO : Unable to send text on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:04:58 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:05:09 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:05:09 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:05:09 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:05:10 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:05:15 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:05:15 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:05:20 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:05:32 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:05:32 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:05:33 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:05:33 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:06:06 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:06:18 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:06:18 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:06:19 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:06:19 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:06:24 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:06:24 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:06:30 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:06:41 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:06:41 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:06:42 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:06:42 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:07:30 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:07:42 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:07:42 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:07:42 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:07:43 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:07:45 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:07:47 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo is not displayed
+05/03/23 01:07:48 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:07:59 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:08:00 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:08:00 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:08:00 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:10:08 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:10:20 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:10:20 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:10:21 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:10:21 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:10:27 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:10:27 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:10:28 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:10:39 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:10:39 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:10:40 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:10:40 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:11:45 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:11:56 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:11:56 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:11:57 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:11:57 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:12:02 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:12:02 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:12:03 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:12:14 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:12:15 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:12:15 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:12:16 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:12:18 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitle
+05/03/23 01:12:18 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitleis displayed 
+05/03/23 01:12:18 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitle
+05/03/23 01:12:18 AM Sunday - BasePage - INFO : Get textOops! We lost our notes.on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitle
+05/03/23 01:36:00 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:36:12 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:36:13 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:36:13 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:36:13 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:36:20 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:36:20 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:36:20 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:36:33 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:36:33 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:36:33 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:36:34 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:36:39 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+05/03/23 01:36:39 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+05/03/23 01:36:40 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:36:52 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:36:52 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:36:52 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:36:53 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 01:36:55 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitle
+05/03/23 01:36:55 AM Sunday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitleis displayed 
+05/03/23 01:36:55 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitle
+05/03/23 01:36:55 AM Sunday - BasePage - INFO : Get textOops! We lost our notes.on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvErrorTitle
+05/03/23 01:36:56 AM Sunday - <module> - INFO : Automation Started
+05/03/23 01:37:07 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 01:37:07 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 01:37:08 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+05/03/23 01:37:08 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+05/03/23 02:09:34 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:09:46 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:09:46 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:09:47 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:47 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:47 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:48 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:48 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:48 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:48 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:49 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:49 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:49 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:50 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:50 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:09:50 AM Sunday - BasePage - INFO : Unable to scroll
+05/03/23 02:10:00 AM Sunday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+05/03/23 02:10:01 AM Sunday - BasePage - INFO : Unable to click on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+05/03/23 02:12:01 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:12:13 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:12:13 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:12:13 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:14 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:14 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:15 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:15 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:16 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:16 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:16 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:16 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:17 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:17 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:12:17 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:02 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:13:13 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:13:13 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:13:14 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:14 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:14 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:15 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:15 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:15 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:15 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:16 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:16 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:16 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:16 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:13:17 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:06 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:14:18 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:14:18 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:14:19 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:19 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:20 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:20 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:20 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:21 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:21 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:21 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:21 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:22 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:22 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:14:22 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:28 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:15:39 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:15:39 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:15:40 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:40 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:40 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:41 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:41 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:41 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:41 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:42 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:42 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:43 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:43 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:15:43 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:17:58 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:18:09 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:18:10 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:18:10 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:11 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:11 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:11 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:11 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:12 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:12 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:13 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:13 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:13 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:13 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:18:14 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:19:46 AM Sunday - <module> - INFO : Automation Started
+05/03/23 02:19:57 AM Sunday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+05/03/23 02:19:57 AM Sunday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+05/03/23 02:19:58 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:19:58 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:19:59 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:19:59 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:19:59 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:00 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:00 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:00 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:01 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:01 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:01 AM Sunday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+05/03/23 02:20:02 AM Sunday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:17 PM Monday - <module> - INFO : Automation Started
+06/03/23 03:07:35 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 03:07:36 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 03:07:36 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:36 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:37 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:38 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:38 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:38 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:38 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:39 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:39 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:40 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:40 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 03:07:40 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:26 PM Monday - <module> - INFO : Automation Started
+06/03/23 04:24:45 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 04:24:46 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 04:24:46 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:47 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:47 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:48 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:48 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:48 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:49 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:49 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:49 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:50 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:50 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:24:50 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:13 PM Monday - <module> - INFO : Automation Started
+06/03/23 04:35:31 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 04:35:32 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 04:35:32 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:33 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:34 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:34 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:34 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:35 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:36 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:36 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 04:35:36 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:03 PM Monday - <module> - INFO : Automation Started
+06/03/23 05:17:22 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 05:17:23 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 05:17:23 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:24 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:24 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:25 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:25 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:25 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:25 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:26 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:26 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:26 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:27 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:17:27 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:20:59 PM Monday - <module> - INFO : Automation Started
+06/03/23 05:21:20 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 05:21:20 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 05:21:21 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:21 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:21 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:22 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:22 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:23 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:23 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:23 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:23 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:24 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:24 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:24 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:21:25 PM Monday - BasePage - INFO : Unable to scroll
+06/03/23 05:23:11 PM Monday - <module> - INFO : Automation Started
+06/03/23 05:23:31 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 05:23:31 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 05:23:32 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:33 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:34 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:34 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:34 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:35 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:36 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:36 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:36 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 05:23:48 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 05:23:48 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 05:23:49 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 05:23:49 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 05:23:49 PM Monday - BasePage - INFO : Unable to scroll
+06/03/23 05:31:21 PM Monday - <module> - INFO : Automation Started
+06/03/23 05:31:40 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 05:31:40 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:05:48 PM Monday - <module> - INFO : Automation Started
+06/03/23 06:06:09 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 06:06:10 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:06:10 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:10 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:11 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:11 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:12 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:12 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:12 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:13 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:13 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:14 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:06:25 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 06:06:26 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 06:06:26 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:06:26 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:06:26 PM Monday - BasePage - INFO : Unable to scroll
+06/03/23 06:07:52 PM Monday - <module> - INFO : Automation Started
+06/03/23 06:08:12 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 06:08:13 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:08:14 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:14 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:14 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:15 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:16 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:16 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:16 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:16 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:17 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:17 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:18 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:08:28 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 06:08:29 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 06:08:29 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:08:29 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:20:10 PM Monday - <module> - INFO : Automation Started
+06/03/23 06:20:27 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 06:20:28 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:20:28 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:29 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:29 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:29 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:30 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:30 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:30 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:31 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:31 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:32 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:32 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:20:43 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 06:20:44 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 06:20:44 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:20:44 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:20:55 PM Monday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 06:20:56 PM Monday - BasePage - INFO : Unable to click on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 06:33:24 PM Monday - <module> - INFO : Automation Started
+06/03/23 06:33:37 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 06:33:37 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:33:37 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:38 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:38 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:39 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:39 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:39 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:39 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:40 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:40 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:40 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:40 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:41 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:33:51 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 06:33:52 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 06:33:52 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:33:52 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:33:54 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 06:33:54 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 06:35:19 PM Monday - <module> - INFO : Automation Started
+06/03/23 06:35:31 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 06:35:31 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:35:32 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:32 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:32 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:33 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:33 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:34 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:34 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:35 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:35:43 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 06:35:44 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 06:35:44 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:35:44 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:35:46 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 06:35:46 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 06:36:08 PM Monday - <module> - INFO : Automation Started
+06/03/23 06:36:20 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 06:36:20 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 06:36:21 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:21 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:22 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:22 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:22 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:23 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:23 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:23 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:23 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:24 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:24 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:24 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 06:36:33 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 06:36:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 06:36:33 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:36:33 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 06:36:35 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 06:36:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:01:27 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:01:41 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:01:42 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:01:42 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:43 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:43 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:43 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:43 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:44 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:44 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:45 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:45 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:45 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:45 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:46 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:01:56 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:01:56 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:01:56 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:01:57 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:01:59 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:01:59 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:02:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:02:05 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView is not displayed
+06/03/23 07:02:17 PM Monday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='maybe later']
+06/03/23 07:02:17 PM Monday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='maybe later'] is not displayed
+06/03/23 07:03:38 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:03:50 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:03:50 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:03:50 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:51 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:52 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:52 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:52 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:53 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:53 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:53 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:53 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:54 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:54 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:03:54 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:01 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:04:02 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:04:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:04:02 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:04:04 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:04:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:04:07 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:04:08 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView is not displayed
+06/03/23 07:04:19 PM Monday - BasePage - INFO : Element not found with LocatorType: xpath and with the locatorValue ://*[@text='maybe later']
+06/03/23 07:04:20 PM Monday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='maybe later'] is not displayed
+06/03/23 07:04:41 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:04:54 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:04:54 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:04:54 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:55 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:55 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:55 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:55 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:56 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:56 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:56 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:56 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:57 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:57 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:04:58 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:05:06 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:05:07 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:05:07 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:05:07 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:05:09 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:05:09 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:05:11 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:05:14 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView is not displayed
+06/03/23 07:05:14 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='maybe later']
+06/03/23 07:05:14 PM Monday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='maybe later']is displayed 
+06/03/23 07:06:22 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:06:33 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:06:34 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:06:34 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:35 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:35 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:35 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:36 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:36 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:37 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:37 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:37 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:37 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:38 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:06:46 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:06:47 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:06:47 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:06:47 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:06:49 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:06:49 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:06:54 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:06:54 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+06/03/23 07:06:54 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='maybe later']
+06/03/23 07:06:54 PM Monday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='maybe later']is displayed 
+06/03/23 07:10:30 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:10:42 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:10:42 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:10:43 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:43 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:43 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:44 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:44 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:45 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:45 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:45 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:45 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:46 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:46 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:46 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:10:54 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:10:54 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:10:54 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:10:54 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:10:56 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:10:56 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:11:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:11:02 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+06/03/23 07:15:47 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:16:00 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:16:00 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:16:00 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:01 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:01 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:02 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:02 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:02 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:03 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:03 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:03 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:03 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:04 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:16:14 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:16:15 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:16:15 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:16:15 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:16:17 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:16:17 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:16:27 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:16:27 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+06/03/23 07:17:43 PM Monday - <module> - INFO : Automation Started
+06/03/23 07:17:56 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 07:17:56 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 07:17:56 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:57 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:57 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:58 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:58 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:58 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:58 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:58 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:59 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:59 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:17:59 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:18:00 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/tvAppVersion
+06/03/23 07:18:09 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Staging']
+06/03/23 07:18:10 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Staging']
+06/03/23 07:18:10 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:18:10 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/btnSaveEnv
+06/03/23 07:18:12 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 07:18:12 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 07:18:17 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 07:18:17 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+06/03/23 11:51:30 PM Monday - <module> - INFO : Automation Started
+06/03/23 11:51:50 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+06/03/23 11:51:50 PM Monday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+06/03/23 11:51:51 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+06/03/23 11:51:51 PM Monday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+06/03/23 11:51:58 PM Monday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+06/03/23 11:51:58 PM Monday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+06/03/23 11:51:58 PM Monday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Continue With Ads']
+06/03/23 11:51:58 PM Monday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='Continue With Ads']is displayed 
+07/03/23 12:01:23 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:03:14 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:05:54 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:06:14 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:06:15 AM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:06:16 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:06:16 AM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:06:24 AM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+07/03/23 12:06:24 AM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+07/03/23 12:06:25 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Continue With Ads']
+07/03/23 12:06:25 AM Tuesday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='Continue With Ads']is displayed 
+07/03/23 12:14:51 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:15:11 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:15:11 AM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:15:12 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:15:12 AM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:15:19 AM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerView
+07/03/23 12:15:19 AM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/recyclerViewis displayed 
+07/03/23 12:15:20 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Continue With Ads']
+07/03/23 12:15:20 AM Tuesday - BasePage - INFO :  Element with LocatorType: xpath and with the locatorValue ://*[@text='Continue With Ads']is displayed 
+07/03/23 11:07:01 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 11:07:14 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 11:07:15 AM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 11:07:15 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 11:07:15 AM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 11:07:20 AM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 11:07:20 AM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 11:07:25 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 11:07:38 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 11:07:38 AM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 11:07:38 AM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 11:07:39 AM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 11:07:44 AM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 11:07:44 AM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 11:33:54 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 11:34:12 AM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:09:05 PM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:09:18 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:09:18 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:09:18 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:09:18 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:09:24 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 12:09:24 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 12:09:24 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPlaylists
+07/03/23 12:09:24 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPlaylistsis displayed 
+07/03/23 12:09:24 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionCharts
+07/03/23 12:09:26 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionCharts is not displayed
+07/03/23 12:09:26 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPodcast
+07/03/23 12:09:26 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPodcastis displayed 
+07/03/23 12:09:27 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylist
+07/03/23 12:09:27 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylistis displayed 
+07/03/23 12:30:43 PM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:30:58 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:30:58 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:30:59 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:30:59 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:31:06 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 12:31:06 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 12:31:07 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPlaylists
+07/03/23 12:31:07 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPlaylistsis displayed 
+07/03/23 12:31:18 PM Tuesday - BasePage - INFO : Element not found with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionChart
+07/03/23 12:31:19 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionChart is not displayed
+07/03/23 12:31:20 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPodcast
+07/03/23 12:31:20 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPodcastis displayed 
+07/03/23 12:31:20 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylist
+07/03/23 12:31:20 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylistis displayed 
+07/03/23 12:34:35 PM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:34:46 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:34:46 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:34:47 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:34:47 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:34:56 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 12:34:56 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo is not displayed
+07/03/23 12:54:16 PM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:54:29 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:54:29 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:54:30 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:54:30 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:54:36 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 12:54:36 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 12:54:36 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPlaylists
+07/03/23 12:54:36 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPlaylistsis displayed 
+07/03/23 12:54:37 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionCharts
+07/03/23 12:54:37 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionChartsis displayed 
+07/03/23 12:54:37 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPodcast
+07/03/23 12:54:37 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionPodcastis displayed 
+07/03/23 12:54:37 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylist
+07/03/23 12:54:37 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylistis displayed 
+07/03/23 12:54:42 PM Tuesday - <module> - INFO : Automation Started
+07/03/23 12:54:55 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 12:54:55 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 12:54:56 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 12:54:56 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 12:55:02 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutViHome
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutViHomeis displayed 
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutHomeNew
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutHomeNewis displayed 
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutSearchNew
+07/03/23 12:55:03 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutSearchNewis displayed 
+07/03/23 12:55:04 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutMyMusicNew
+07/03/23 12:55:04 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutMyMusicNewis displayed 
+07/03/23 01:17:46 PM Tuesday - <module> - INFO : Automation Started
+07/03/23 01:17:59 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='mobile']
+07/03/23 01:17:59 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: xpath and with the locatorValue ://*[@text='mobile']
+07/03/23 01:17:59 PM Tuesday - BasePage - INFO : Element found with LocatorType: xpath with the locatorValue ://*[@text='Launch']
+07/03/23 01:17:59 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
+07/03/23 01:18:07 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 01:18:07 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 01:18:07 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogo
+07/03/23 01:18:07 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivLogois displayed 
+07/03/23 01:18:07 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/ivSliderBanner
+07/03/23 01:18:07 PM Tuesday - BasePage - INFO :  Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/ivSliderBanneris displayed 
