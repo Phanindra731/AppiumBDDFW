@@ -16,8 +16,8 @@ def customLogger():
     # 3.) Set the Log level
     logger.setLevel(logging.DEBUG)
 
-    # 4.) Create the fileHandler to save the logs in the file
-    fileHandler = logging.FileHandler("../reports/Code2Lead.log", mode='a')
+    # 4.) Create the fileHandler to save the logs in the file ('w' for delete and add, 'a' for append)
+    fileHandler = logging.FileHandler("../reports/Code2Lead.log", mode='w')
 
     # 5.) Set the logLevel for fileHandler
     fileHandler.setLevel(logging.DEBUG)
