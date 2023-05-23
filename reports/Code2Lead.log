@@ -1,0 +1,4 @@
+19/05/23 01:44:41 PM Friday - HomePage - INFO : Element found with LocatorType: id with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylist
+19/05/23 01:44:43 PM Friday - HomePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.apalya.myplexmusic.sample:id/layoutActionVideoPlaylist
+catorType: xpath with the locatorValue ://*[@text='Launch']
+19/05/23 01:44:38 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: xpath and with the locatorValue ://*[@text='Launch']
