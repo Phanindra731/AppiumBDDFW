@@ -1,7 +1,7 @@
 # This is a Feature file
 
 Feature: Launch the app
-
+@tagt1 @sanity
     Scenario Outline: login using valid cradentials
 
       Given create class object
@@ -12,7 +12,7 @@ Feature: Launch the app
         | mobilenumber |
       |9581794876    |
       |9492156669    |
-
+@tagt1 @sanity
   Scenario Outline: login with non vi number
 
       Given create class object
@@ -22,7 +22,7 @@ Feature: Launch the app
     Examples:
       | nonvinumber |
     |9581992218   |
-
+@tagt1 @sanity
   Scenario Outline: login with invalidnumber
 
       Given create class object
@@ -31,6 +31,8 @@ Feature: Launch the app
     Examples:
       | invalidnummber |
   |95819922        |
+
+  @tagt1 @sanity
   Scenario Outline: verify new user popup
 
       Given create class object
@@ -43,16 +45,17 @@ Feature: Launch the app
         | mobilenumber |
       |8886682956    |
 
+@tagt0 @sanity
   Scenario Outline: verify return user popup
 
       Given create class object
       Then enter return user mobile number<mobilenumber>
-      #Then change app enivironment to stagging
+      Then change app enivironment to stagging
       Then click on launch
       Then verify the return user popup
       Examples:
         | mobilenumber |
-      |8886682956    |
+      |9010234707    |
 
 
 

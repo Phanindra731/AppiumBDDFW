@@ -4,3 +4,4 @@ bVersion="latest"
 
 url="http://www.dummypoint.com/seleniumtemplate.html"
 title="Selenium Template --DummyPoint"
+number ="9581794876"

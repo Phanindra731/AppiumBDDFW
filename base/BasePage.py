@@ -13,7 +13,7 @@ from appium.webdriver.common.touch_action import TouchAction
 
 class BasePage:
     log = cl.customLogger()
-    x= "promod"
+
 
     def __init__(self, driver):
         self.driver = driver

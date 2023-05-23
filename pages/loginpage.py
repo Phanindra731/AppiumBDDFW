@@ -42,6 +42,7 @@ class loginpage(BasePage):
         self.waitForElement(self._Continuewithads,"xpath")
         e2 = self.isDisplayed(self._Continuewithads,"xpath")
         if (e1 & e2):
+            cl.allureLogs("Return user popup displayed")
             print("Wellcome popup displayed")
             assert True
         else:
@@ -68,9 +69,12 @@ class loginpage(BasePage):
         #self.clickElement(self._changeenv,"id")
         self.clickElement(self._stagenv,"xpath")
         self.clickElement(self._changeenvbtn,"id")
+        #t1=self.gettext(self._stagenv,"xpath")
+       # cl.allureLogs("App  environment changed to " + t1)
         self.swipetostart()
         self.swipetostart()
-       # self.scrollandclick("Launch")
+        self.swipetostart()
+  #      self.scrollandclick("Launch")
 
 
 
